@@ -98,6 +98,7 @@ class ThemeInstaller
         );
 
         unlink($randomZip);
+        unlink($randomFolder);
     }
 
     /**
