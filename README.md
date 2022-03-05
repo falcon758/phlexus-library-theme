@@ -1,3 +1,3 @@
 # phlexus-library-theme
 
-Theme Installer
+Theme Manager
