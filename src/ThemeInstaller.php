@@ -17,28 +17,28 @@ class ThemeInstaller
      *
      * @var string
      */
-    protected $themeName;
+    protected string $themeName;
 
     /**
      * Install Theme path
      *
      * @var string
      */
-    protected $themePath;
+    protected string $themePath;
 
     /**
      * Themes path
      *
      * @var string
      */
-    protected $themesPath;
+    protected string $themesPath;
 
     /**
      * Assets path
      *
      * @var string
      */
-    protected $assetsPath;
+    protected string $assetsPath;
 
     /**
      * Theme zip url
@@ -47,7 +47,7 @@ class ThemeInstaller
      *
      * @var string
      */
-    protected $url;
+    protected string $url;
 
     /**
      * ThemeManager constructor.
